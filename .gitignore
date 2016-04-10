@@ -1,0 +1,8 @@
+# Temporary data
+.ipynb_checkpoints/
+
+# Csv files
+*.csv
+
+# Pickle files
+*.pickle
